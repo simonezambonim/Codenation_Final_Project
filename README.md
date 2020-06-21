@@ -23,17 +23,17 @@ Note: all companies (ids) in the portfolios are contained in the Market (populat
 Here are some information to help you get started. 
 
 * folder ```data``` - contains the 3 portfolios and the market dataset
-* folder ```app``` - contains the recommender system 
+* folder ```app``` - contains the recommender system \
 	:warning: remember to change the variable ```file_path``` in main.py and recommender.py) 
 * folder ```output``` - contains the entire set of leads from the recommender system for each portfolio. They are sorted, which means the first leads are more similar to the potfolio than the last ones).
-* folder `notebooks` - here all the developement of the recommender system is clearly explained. 
-	:one: ContentBased_Recommender_HEOM_trial.ipynb contains the evaluation of another metric for the recommender system
-	:two:  ContentBased_Recommender_Gower.ipynb  is the main file, it uses the gower distance metric to define similarity among companies from the estaticos_market.csv and generates leads for each portfolio.
+* folder `notebooks` - here all the developement of the recommender system is clearly explained. \
+	:one: ContentBased_Recommender_HEOM_trial.ipynb contains the evaluation of another metric for the recommender system.\
+	:two:  ContentBased_Recommender_Gower.ipynb  is the main file, it uses the gower distance metric to define similarity among companies from the estaticos_market.csv and generates leads for each portfolio.\
 	:three: eda.ipnyb contains the data exploration analysis.
 
 ### Prerequisites
 
-The packages needed to run the app are in the requirements.txt file.
+The packages required to run the app are in the requirements.txt file.
 
 ### Installing
 
@@ -55,7 +55,7 @@ streamlit run main.py
 
 Take a look!
 
-![alt text](https://imgflip.com/gif/45tuah)
+![preview of app](https://imgflip.com/gif/45tuah)
 
 ## Built With
 * [Gower](https://github.com/wwwjk366/gower)
