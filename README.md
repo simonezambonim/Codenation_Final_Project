@@ -55,7 +55,11 @@ streamlit run main.py
 
 Take a look!
 
-![preview of app](https://github.com/simonezambonim/Codenation_Final_Project/blob/master/fig/all.gif)
+![Preview of app](https://github.com/simonezambonim/Codenation_Final_Project/blob/master/fig/all.gif)
+![Comparison customers x leads](https://github.com/simonezambonim/Codenation_Final_Project/blob/master/fig/2_comparison.gif)
+![Profiling](https://github.com/simonezambonim/Codenation_Final_Project/blob/master/fig/3_profiling.gif)
+![Location and Market division](https://github.com/simonezambonim/Codenation_Final_Project/blob/master/fig/4_location_market_division.gif)
+
 
 ## Built With
 * [Gower](https://github.com/wwwjk366/gower)
