@@ -55,7 +55,7 @@ streamlit run main.py
 
 Take a look!
 
-![preview of app](https://imgflip.com/gif/45tuah)
+![preview of app](https://github.com/simonezambonim/Codenation_Final_Project/blob/master/fig/all.gif)
 
 ## Built With
 * [Gower](https://github.com/wwwjk366/gower)
